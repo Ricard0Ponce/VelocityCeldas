@@ -1,0 +1,3 @@
+/home/rich/Escritorio/NotasFC/VelocityCeldas/cmake-build-debug/CMakeFiles/VelocityCeldas.dir
+/home/rich/Escritorio/NotasFC/VelocityCeldas/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rich/Escritorio/NotasFC/VelocityCeldas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
